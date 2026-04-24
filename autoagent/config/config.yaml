@@ -1,5 +1,5 @@
-opencode_zen_api_key: sk-vywf6uSEFrUsrDur4Va0nvbF2lQGmfZZZkGM5JcoaMoYanc6BDeKQI5mctSy8h1j
-openrouter_api_key: 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
+opencode_zen_api_key: YOUR_OPENCOD_EZEN_API_KEY
+openrouter_api_key: YOUR_OPENROUTER_API_KEY
 
 model_providers:
   opencode_zen:

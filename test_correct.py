@@ -1,6 +1,6 @@
 import httpx
 
-api_key = "sk-vywf6uSEFrUsrDur4Va0nvbF2lQGmfZZZkGM5JcoaMoYanc6BDeKQI5mctSy8h1j"
+api_key = "YOUR_OPENCOD_EZEN_API_KEY"
 
 headers = {
     "Authorization": f"Bearer {api_key}",

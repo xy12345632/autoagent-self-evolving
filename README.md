@@ -1,4 +1,4 @@
-# AutoAgent - 自进化个人AI Agent
+# AutoAgent - 自进化个人AI Agent（用AI开发的AI Agent）
 
 AutoAgent 是一个具有自进化能力的个人AI助手系统，能够通过与用户的交互持续学习和改进，提供持久记忆、多平台支持、丰富的工具生态和智能技能管理系统。
 
